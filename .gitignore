@@ -1,0 +1,12 @@
+/DatabaseSqlite/version_1/*.db
+/DatabaseSqlite/version_2/*.db
+/DatabaseSqlite/version_3/*.db
+/DatabaseSqlite/version_3/bin/
+/DatabaseSqlite/version_3/include/
+/DatabaseSqlite/version_3/lib/
+/DatabaseSqlite/version_3/pyvenv.cfg
+/DatabaseSqlite/version_4/*.db
+/DatabaseSqlite/version_4/bin/
+/DatabaseSqlite/version_4/include/
+/DatabaseSqlite/version_4/lib/
+/DatabaseSqlite/version_4/pyvenv.cfg
