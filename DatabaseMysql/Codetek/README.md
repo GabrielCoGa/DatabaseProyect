@@ -6,7 +6,7 @@ Para consultar el proyecto se puede visualizar este video de youtube:
 https://youtu.be/eGwuHtRaFrM?si=fv1gheal9yeUI2Uo
 
 gabrielcoga@ToLearn DatabaseProyect % ls -al
-çtotal 48
+total 48
 drwxr-xr-x  12 gabrielcoga  staff   384 Jan 19 16:48 .
 drwx------@ 13 gabrielcoga  staff   416 Jan 19 16:38 ..
 -rw-r--r--@  1 gabrielcoga  staff  8196 Jan 19 16:50 .DS_Store
