@@ -5,11 +5,11 @@ https://youtu.be/_4A3DuHVmk0?si=OT7AIeG4UVUlXPlO
 Para consultar el proyecto se puede visualizar este video de youtube:
 https://youtu.be/eGwuHtRaFrM?si=fv1gheal9yeUI2Uo
 
-gabrielcoga@ToLearn DatabaseProyect % ls -al
-total 48
-drwxr-xr-x  12 gabrielcoga  staff   384 Jan 19 16:48 .
-drwx------@ 13 gabrielcoga  staff   416 Jan 19 16:38 ..
--rw-r--r--@  1 gabrielcoga  staff  8196 Jan 19 16:50 .DS_Store
+gabrielcoga@ToLearn DatabaseProyect % ls -al<br>
+total 48<br>
+drwxr-xr-x  12 gabrielcoga  staff   384 Jan 19 16:48 .<br>
+drwx------@ 13 gabrielcoga  staff   416 Jan 19 16:38 ..<br>
+-rw-r--r--@  1 gabrielcoga  staff  8196 Jan 19 16:50 .DS_Store<br>
 drwxr-xr-x  12 gabrielcoga  staff   384 Jan 17 23:54 .git
 -rw-r--r--@  1 gabrielcoga  staff   392 Jan 16 19:04 .gitignore
 drwxr-xr-x@  7 gabrielcoga  staff   224 Jan 19 16:48 .venv
