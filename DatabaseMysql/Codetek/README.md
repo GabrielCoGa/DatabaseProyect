@@ -66,14 +66,26 @@ Query OK, 0 rows affected, 1 warning (0,027 sec)
 
 mysql> 
 
-mysql> show tables;
-+--------------------+
-| Tables_in_projects |
-+--------------------+
-| projects           |
-+--------------------+
-1 row in set (0,005 sec)
+mysql> show tables;<br>
++--------------------+<br>
+| Tables_in_projects |<br>
++--------------------+<br>
+| projects           |<br>
++--------------------+<br>
+1 row in set (0,005 sec)<br>
+
+mysql> CREATE TABLE tasks(task_id INT(11) NOT NULL AUTO_INCREMENT, project_id INT(11) NOT NULL, description VARCHAR(255), PRIMARY KEY(task_id), FOREIGN KEY(project_id) REFERENCES projects(project_id));
+
+mysql> show tables;<br>
++--------------------+<br>
+| Tables_in_projects |<br>
++--------------------+<br>
+| projects           |<br>
+| tasks              |<br>
++--------------------+<br>
+2 rows in set (0,003 sec)<br>
 
 mysql> 
+
 
 
