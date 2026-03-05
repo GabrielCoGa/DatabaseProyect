@@ -87,5 +87,21 @@ mysql> show tables;<br>
 
 mysql> 
 
+mysql> INSERT INTO projects(title, description) VALUES ("Organize Photos", "Organize old iPhone photos by year");
+Query OK, 1 row affected (0,027 sec)
 
+mysql> INSERT INTO tasks(description, project_id) VALUES ("Organize 2020 photos", 1);
+Query OK, 1 row affected (0,004 sec)
+
+mysql> INSERT INTO tasks(description, project_id) VALUES ("Organize 2019 photos", 1);
+Query OK, 1 row affected (0,003 sec)
+
+ INSERT INTO projects(title, description) VALUES ("Read more", "Read a book a month this year");
+Query OK, 1 row affected (0,071 sec)
+
+mysql> INSERT INTO tasks(description, project_id) VALUES ("Read The Huntress", 2);
+Query OK, 1 row affected (0,005 sec)
+
+gabrielcoga@ToLearn DatabaseProyect % source .venv/bin/activate
+(.venv) gabrielcoga@ToLearn DatabaseProyect % pip3 install mysql-connector-python
 
