@@ -102,6 +102,5 @@ Query OK, 1 row affected (0,071 sec)
 mysql> INSERT INTO tasks(description, project_id) VALUES ("Read The Huntress", 2);
 Query OK, 1 row affected (0,005 sec)
 
-gabrielcoga@ToLearn DatabaseProyect % source .venv/bin/activate
-(.venv) gabrielcoga@ToLearn DatabaseProyect % pip3 install mysql-connector-python
+
 
